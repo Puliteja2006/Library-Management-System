@@ -83,7 +83,7 @@ Key highlights:
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/Puliteja2006/Library-Management-System
 
 2. Open the project in **Apache NetBeans**
 
