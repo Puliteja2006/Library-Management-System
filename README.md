@@ -124,7 +124,7 @@ LibraryManagementSystem/
 
 1. Clone the repository
 
-   git clone 
+   git clone https://github.com/Puliteja2006/Library-Management-System
 
 2. Open in **Apache NetBeans**
 
